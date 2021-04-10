@@ -1,0 +1,27 @@
+/* Comentario en css*/
+head{
+    color: lawngreen;
+}
+body{
+    background-color: rgb(0, 0, 7);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 9cm;
+    width: 18cm;
+}
+ul.Barra{
+    list-style-type: none;
+    padding:0cm;
+    margin:0cm;
+    position:absolute;
+    top:2cm;
+    left:1cm;
+    width: 8cm;
+}
+ul.Barra li{
+    font-style: inherit;
+    background-color: rgb(243, 177, 10);
+    color: rgb(248, 244, 244);
+    margin: 0cm 0.5cm 0.5cm;
+    border-right: 0.5cm solid rgb(51, 10, 233);
+}
